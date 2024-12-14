@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bhavy</h1>
+ <h1 align="center">Hi 👋, I'm bhavy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavy1204&label=Profile%20views&color=0e75b6&style=flat" alt="bhavy1204" /> </p>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavy1204&show_icons=true&locale=en" alt="bhavy1204" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavy1204&" alt="bhavy1204" /></p>
+<p><img align="center" src="https://github-radme-streak-stats.herokuapp.com/?user=bhavy1204&" alt="bhavy1204" /></p>
