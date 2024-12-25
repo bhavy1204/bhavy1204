@@ -29,9 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavy1204&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
-<p align = "center"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=bhavy1204&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></a></p>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align = "center"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=bhavy1204&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></p>
 
 
 
