@@ -5,10 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavy1204" alt="bhavy1204" /></a> </p>
 
-- 🔭 I’m currently working on **amazon clone**
-
-- 🌱 I’m currently learning **Express js**
-
 - 📫 How to reach me **bhavysarwa51@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
