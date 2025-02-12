@@ -1,5 +1,4 @@
  <h1 align="center">Hi 👋, I'm bhavy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavy1204&label=Profile%20views&color=0e75b6&style=flat" alt="bhavy1204" /> </p>
 
