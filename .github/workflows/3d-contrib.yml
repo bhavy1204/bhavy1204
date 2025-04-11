@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,8 @@ jobs:
 
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@main
+        with:
+          USERNAME: bhavy1204
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
