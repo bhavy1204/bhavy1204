@@ -9,10 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@main
-        with:
-          USERNAME: bhavy1204
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Auto commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: 'Generated 3D contribution graph'
+
