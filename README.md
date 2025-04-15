@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavy1204&label=Profile%20views&color=0e75b6&style=flat" alt="bhavy1204" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavy1204&no-frame=true" alt="bhavy1204" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavy1204&no-frame=true&title=-Reviews" alt="bhavy1204" /></a> </p>
 
 - 📫 How to reach me **bhavysarwa51@gmail.com**
 
