@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavy1204&no-frame=true&title=-Reviews" alt="bhavy1204" /></a> </p>
 
 - 📫 How to reach me **bhavysarwa51@gmail.com**
-- 
+ 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://linkedin.com/in/bhavy-sarva-10ba13265" target="blank">
