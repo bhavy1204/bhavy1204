@@ -57,7 +57,7 @@
 <br/><br/>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=bhavy1204&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true"><br/>
+ <img src="https://github-readme-stats.vercel.app/api?username=bhavy1204&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true"><br/>
  <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavy1204&theme=solarized-dark&hide_border=false"><br/>
  <br/>
@@ -72,7 +72,4 @@
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
-
-
-![bhavy1204's Stats](https://github-readme-stats.vercel.app/api?username=bhavy1204&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
