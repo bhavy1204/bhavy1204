@@ -6,10 +6,6 @@
 
 <br/>
 
-> 💬 *"The more I code, the more I realize farming might’ve been a calmer career choice..."* 🌾💻
-
-<br/>
-
 ## :star2: Connect with me 
 
 <div align="center">
@@ -67,8 +63,7 @@
 <br/>
 
 <p align="center">
-  🧑‍💻 Thanks for scrolling! Now go take a break — maybe pet a cat 🐱 or touch some grass 🌿.  
-  And hey... don’t forget to follow! ⭐
+  🧑‍💻 Thanks for scrolling! Now go take a break. And hey... don’t forget to follow! ⭐
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
