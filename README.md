@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm bhavy</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi👋+%2C+I+am+Bhavy+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Hi👋,+%2C+I'm+Bhavy+)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavy1204&label=Profile%20views&color=0e75b6&style=flat" alt="bhavy1204" /> </p>
 
