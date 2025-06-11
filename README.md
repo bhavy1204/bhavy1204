@@ -12,8 +12,11 @@
 <a href="mailto:bhavysarwa@gmail.com?subject=Hello%20Bhavy,%20From%20Github" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon" style="margin-bottom: 5px;" />
 </a> 
+<a href="https://leetcode.com/bhavy1204" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Gmail Icon" style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/bhavy1204" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.geeksforgeeks.org/user/bhavysai92g" target="_blank">
   <img src="https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=Green" alt="Geeksforgeeks" style="margin-bottom: 5px;" />
@@ -64,10 +67,6 @@
 
 <p align="center">
   🧑‍💻 Thanks for scrolling! Now go take a break. And hey... don’t forget to follow! ⭐
-</p>
-
-<p align="center">
-  🧑‍💻this is for test
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
