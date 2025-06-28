@@ -15,9 +15,6 @@
 <a href="https://leetcode.com/bhavy1204" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="Gmail Icon" style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/bhavy1204" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
-</a> 
 <a href="https://www.geeksforgeeks.org/user/bhavysai92g" target="_blank">
   <img src="https://img.shields.io/badge/geeksforgeeks-%23000000.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=Green" alt="Geeksforgeeks" style="margin-bottom: 5px;" />
 </a>
