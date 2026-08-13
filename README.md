@@ -1,17 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Hi👋+I'm+Bhavy+Sarva;Full+Stack+MERN+Developer;CS+Engineering+Student)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Bhavy%20sarva&reversal=true&fontAlign=51&fontSize=40&fontAlignY=27&descAlign=100&descAlignY=100"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavy1204&label=Profile%20views&color=0e75b6&style=flat" alt="bhavy1204" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Hi👋+I'm+Full+Stack+MERN+Developer;CS+Engineering+Student)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Science Engineering (B.Tech) student, Techno India NJR
+- 🎓 Final-year Computer Science Engineering (B.Tech) student
 - 💻 Full Stack Developer — MERN specialist with real client project experience
 - 🛠️ Have independently built and deployed production apps for clients, including a complete e-commerce platform
-- 📚 Strong focus on DSA, Algorithms & System Design
 - 🌱 Currently exploring advanced backend & distributed systems
-- 🎯 Goal: land a role at a top tech company within the next 3 years
 - 🌐 Open source contributor — GirlScript Summer of Code, Hacktoberfest 2024 & 2025
 
 ---
@@ -90,9 +88,9 @@
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=bhavy1204&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" /><br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavy1204&theme=solarized-dark&hide_border=false" alt="Streak Stats"/><br/><br/>
+<img src="./profile/streak.svg"  alt="Streak Stats"/><br/><br/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavy1204&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages"/><br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavy1204&theme=solarized-dark&hide_border=false" alt="Activity Graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavy1204&theme=solarized-dark&hide_border=false" alt="Activity Graph"/> -->
 </div>
 
 ---
@@ -100,5 +98,7 @@
 <p align="center">
   🧑‍💻 Thanks for stopping by! Feel free to explore my repos and connect.
 </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavy1204&label=Profile%20views&color=0e75b6&style=flat" alt="bhavy1204" /> </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
